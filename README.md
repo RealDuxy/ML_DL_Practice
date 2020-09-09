@@ -1,4 +1,4 @@
-# MachineLearning
+# NLP相关的简单练习
  
 ## simple language model
 给定语法，生成n个句子。
