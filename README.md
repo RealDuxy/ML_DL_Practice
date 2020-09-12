@@ -10,3 +10,6 @@
 
 ## PinYinCorrection
 利用编辑距离实现一个简单的拼音纠错程序。
+
+## TextRank
+手动实现了一个TextRank算法
